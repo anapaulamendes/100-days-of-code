@@ -8,7 +8,7 @@ Challenge being fulfilled by: [Ana Paula Mendes](https://github.com/anapauladsme
 2.  Tweet your progress every day with the #100DaysOfCode hashtag.
 
 ### Twitter posting
-[Day 1](https://twitter.com/ananoterminal/status/1080989561688342528) | [Day 2](https://twitter.com/ananoterminal/status/1081360553023602688) | [Day 3](https://twitter.com/ananoterminal/status/1081726259976122373) | [Day 4](https://twitter.com/ananoterminal/status/1082063988559671296)
+[Day 1](https://twitter.com/ananoterminal/status/1080989561688342528) | [Day 2](https://twitter.com/ananoterminal/status/1081360553023602688) | [Day 3](https://twitter.com/ananoterminal/status/1081726259976122373) | [Day 4](https://twitter.com/ananoterminal/status/1082063988559671296) | [Day 5](https://twitter.com/ananoterminal/status/1082468042976776193)
 
 ### Weekly posting on my blog
 Week 1
