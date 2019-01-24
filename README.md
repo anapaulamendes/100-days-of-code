@@ -12,7 +12,7 @@ Challenge being fulfilled by: [Ana Paula Mendes](https://github.com/anapauladsme
 
 
 ### Weekly posting on my blog
-[Week 1](https://anapauladsmendes.github.io/week-01-100-days-of-code/) | [Week 2](https://anapauladsmendes.github.io/week-02-100-days-of-code/)
+[Week 1](https://anapauladsmendes.github.io/week-01-100-days-of-code/) | [Week 2](https://anapauladsmendes.github.io/week-02-100-days-of-code/) | [Week 3](https://anapauladsmendes.github.io/week-03-100-days-of-code/)
 
 ### Motivation
 
