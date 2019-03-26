@@ -15,7 +15,4 @@ Challenge being fulfilled by: [Ana Paula Mendes](https://github.com/anapauladsme
 
 ### Motivation
 
-> I decided to do the challenge 100 days of code to create a coding
-> study routine that I planned and I can improve my skills. I love
-> computing and I believe that the # 100DaysOfCode challenge will help
-> me become a better programmer!
+> I've decided to take the 100 days of code challenge because I want to develop a coding study routine and improve my tech skills. I love computing and I believe the #100DaysOfCode challenge will help me to become a better programmer!
